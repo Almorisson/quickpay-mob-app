@@ -1,6 +1,7 @@
 QuickPay
 =======
-Payment by QR code reinvented
+A contactless payment application via QR Code
+
 
 ![QuickPay](https://lh3.googleusercontent.com/qU5CaBK-MU8c2nIoTDkdkPnGm5iPbhrsy4ZOMVzmTSqGj1dulY-M5siBJEkLz2-n33QKPN21qMA)
 
