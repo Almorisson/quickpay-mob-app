@@ -10,7 +10,7 @@
   "dependencies": {
     "bcrypt": "^3.0.6",
     "exp": "^57.2.1",
-    "expo": "^32.0.0",
+    "expo": "^46.0.16",
     "expo-cli": "^2.19.5",
     "jwt-decode": "^2.2.0",
     "package": "^1.0.1",
